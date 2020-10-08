@@ -7,4 +7,4 @@ def my_function():
 
 def some_more_changes():
 
-    return ('my local change')
+    return ('edited online file')
