@@ -7,4 +7,4 @@ def my_function():
 
 def some_more_changes():
 
-    return null
+    return ('my local change')
