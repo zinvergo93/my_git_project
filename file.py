@@ -5,4 +5,6 @@ print('noice')
 def my_function():
     return 'hi'
 
-    dkjdspojgsfpihdfh
+def some_more_changes():
+
+    return null
